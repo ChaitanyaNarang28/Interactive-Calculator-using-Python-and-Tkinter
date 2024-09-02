@@ -10,7 +10,7 @@ This repository contains two Python scripts that implement a basic calculator ap
 
 #Code Overview
 
-  #Code 1
+### Code 1
 
 -   **Functionality**: Implements a calculator with hardcoded buttons for digits (1-9), arithmetic operations (+, -, *, /), percentage (%), decimal point (.),     equals (=), and clear (C).
 -   **Layout**: Uses a grid layout to position buttons and display the result.
