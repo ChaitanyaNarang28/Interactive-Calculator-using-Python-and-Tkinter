@@ -8,7 +8,7 @@ This repository contains two Python scripts that implement a basic calculator ap
 - Evaluation of mathematical expressions
 - Clear button to reset the input
 
-#Code Overview
+###Code Overview
 
 ### Code 1
 
